@@ -1,6 +1,8 @@
 # Neural Ordinary Differential Equations (Neural ODEs)
 A JAX-based implementation of Neural Ordinary Differential Equations using Equinox and Diffrax for continuous-depth neural networks.
 
+![Spiral Visualization](https://github.com/ajitashwath/neural-ode/blob/main/res/spiral.png?raw=true)
+
 ## Overview
 Neural ODEs represent a continuous analog of residual networks, where instead of discrete layers, we have a continuous transformation parameterized by an ordinary differential equation. This implementation demonstrates how to train Neural ODEs for binary classification tasks on synthetic 2D datasets.
 
